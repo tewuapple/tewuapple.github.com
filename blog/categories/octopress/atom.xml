@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | tewuapple]]></title>
+  <link href="http://tewuapple.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://tewuapple.github.com/"/>
+  <updated>2013-03-10T22:28:55+08:00</updated>
+  <id>http://tewuapple.github.com/</id>
+  <author>
+    <name><![CDATA[sunzq]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[如何建立Octopress博客]]></title>
+    <link href="http://tewuapple.github.com/blog/2013/03/10/how-to-create-octopress-blog/"/>
+    <updated>2013-03-10T17:33:00+08:00</updated>
+    <id>http://tewuapple.github.com/blog/2013/03/10/how-to-create-octopress-blog</id>
+    <content type="html"><![CDATA[<p>如何建立Octopress博客</p>
+
+<p>how to create octopress blog.</p>
+
+<p>tag test</p>
+]]></content>
+  </entry>
+  
+</feed>
