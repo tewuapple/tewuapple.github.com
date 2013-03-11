@@ -4,7 +4,7 @@
   <title><![CDATA[tewuapple]]></title>
   <link href="http://tewuapple.github.com/atom.xml" rel="self"/>
   <link href="http://tewuapple.github.com/"/>
-  <updated>2013-03-11T20:37:46+08:00</updated>
+  <updated>2013-03-11T23:34:15+08:00</updated>
   <id>http://tewuapple.github.com/</id>
   <author>
     <name><![CDATA[sunzq]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[测试演示]]></title>
+    <link href="http://tewuapple.github.com/blog/2013/03/11/test-demo/"/>
+    <updated>2013-03-11T23:31:00+08:00</updated>
+    <id>http://tewuapple.github.com/blog/2013/03/11/test-demo</id>
+    <content type="html"><![CDATA[<p>例如，如果你创建了一个新的博客，文件名为2012-12-25-test-demo.markdown，标题为“测试演示”。那么，你所发表的微博内容就应该为：</p>
+
+<p>just for test weibo</p>
+
+<p>thanks</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[如何建立Octopress博客]]></title>
