@@ -30,7 +30,7 @@ body {
 .matrix li:nth-child(1):before {
   display: block;
   width: 1em;
-  content: "t e w u a p p l e";
+  content: "タ こ ン ん ウ ょ ン た ん タ ょ し リ マ ン キ こ ば シ ソ キ ば タ ョ";
 }
 .matrix li:nth-child(1):after {
   -webkit-box-sizing: border-box;
@@ -13680,7 +13680,7 @@ body {
 .matrix li:nth-child(27):before {
   display: block;
   width: 1em;
-  content: "t e w u a p p l e";
+  content: "わ タ ク コ わ タ ょ と わ キ マ ン タ ン ン ン ワ コ バ シ こ ン ョ ラ";
 }
 .matrix li:nth-child(27):after {
   -webkit-box-sizing: border-box;
@@ -15255,7 +15255,7 @@ body {
 .matrix li:nth-child(30):before {
   display: block;
   width: 1em;
-  content: "t e w u a p p l e";
+  content: "キ う ョ ラ ド と ウ ょ シ た タ ョ ト ク ン ラ フ リ ン ょ キ マ ョ き";
 }
 .matrix li:nth-child(30):after {
   -webkit-box-sizing: border-box;
